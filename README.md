@@ -44,13 +44,13 @@ GitHub ID: papidioum
 
 ------------
 
-**Zachary**
+**Zach Elgood**
 
 
-Discord ID: 
+Discord ID: timpinen
 
 
-GitHub ID: 
+GitHub ID: zachelgood
 
 
 ------------
