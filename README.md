@@ -11,7 +11,7 @@
 - [Acknowledgement](#Acknowledgement)
 - [References](#references)
 
-# Team Introduction
+## Team Introduction
 **Team Name:** Boson Buzzers
 
 **Challenge Name:** Seeing the future
@@ -66,22 +66,22 @@ Discord ID:
 
 
 
-# Description 
+## Description 
 
-# Results
-
-
-# software--tools-used
+## Results
 
 
-# future-plans
+## software--tools-used
 
-# License
+
+## future-plans
+
+## License
 
 <a href="https://choosealicense.com/licenses/mit/"><img src="https://raw.githubusercontent.com/johnturner4004/readme-generator/master/src/components/assets/images/mit.svg" height=40 />MIT License</a>
 
-# Acknowledgement 
-# References
+## Acknowledgement 
+## References
 
 [_https://builtin.com/hardware/quantum-computer-games_](https://builtin.com/hardware/quantum-computer-games)
 
