@@ -3,7 +3,7 @@
 # :space_invader: Seeing the future challenge- Team Boson Buzzers
 
 - [Team Introduction](#team-introduction)
-- [Problem Statement](#Problem--Statement)
+- [Problem Statement](#ProblemStatement)
   - [Description](#description)
 - [Results](#Results)
 - [Software & Tools Used](#software--tools-used)
@@ -65,8 +65,14 @@ Discord ID:
 
 
 
-## Problem--Statement
+## Problem Statement
+One of the tasks in which a quantum computer is expected to excel compared to a classical one is the simulation of quantum systems. The dynamics of a quantum system are usually represented by its Hamiltonian H. The complex exponential of the Hamiltonian:
 
+Complex exponential of a Hamiltonian
+
+is a very useful operator because it calculates how the system evolves over time. The construction of this operator is usually done through Trotter methods or more modern techniques such as QDrift. Your goal will be to implement state-of-the-art ways to construct the complex exponential of the Hamiltonian, or invent a new original way to achieve this task. Note that there are also more complex Hamiltonians that are time dependent where you could provide different techniques.
+
+This evolution operator has many applications in different fields as chemistry or optimization tasks, it would be great if you could help us!
 ## Description 
 
 ## Results
