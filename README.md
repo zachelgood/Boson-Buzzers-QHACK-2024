@@ -74,12 +74,12 @@ is a very useful operator because it calculates how the system evolves over time
 
 This evolution operator has many applications in different fields as chemistry or optimization tasks, it would be great if you could help us!
 ## Description 
-
+We addressed the challenge of efficiently simulating quantum systems on quantum computers by leveraging the Cartan decomposition technique. Our project focuses on demonstrating the advantages of Cartan decomposition, a method to minimize errors and reduce circuit length in the application of time-independent Hamiltonians. By decomposing the Hamiltonian algebra and utilizing the Cartan subalgebra, our approach enhances the execution time and accuracy compared to standard Trotterization methods.
 ## Results
 
 
 ## software--tools-used
-
+[_Pennylane SDK_](https://pennylane.ai/)
 
 ## future-plans
 
