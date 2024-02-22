@@ -95,7 +95,7 @@ While we have applied this Cartan decomposition to three different molecules( $H
 
 We would like to thank NVIDIA and Amazon for providing us with use of a Nvidia GPU and access to Amazon Web Service respectively due to our placement in the QHACK 2024 coding competition and our preliminary submission.
 ## References
-Efekan K ̈okc ̈u, Thomas Steckmann, Yan Wang, J.K. Freericks, Eugene F.
+ Efekan Kökcü, Thomas Steckmann, Yan Wang, J.K. Freericks, Eugene F.
 Dumitrescu, and Alexander F. Kemper. Fixed depth hamiltonian simula-
 tion via cartan decomposition. Physical Review Letters, 129(7), August
 2022.
