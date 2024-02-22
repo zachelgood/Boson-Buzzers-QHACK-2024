@@ -74,7 +74,8 @@ is a very useful operator because it calculates how the system evolves over time
 
 This evolution operator has many applications in different fields as chemistry or optimization tasks, it would be great if you could help us!
 ## Description 
-In this project, we examine an alternative to the Trotter decomposition to estimate the time evolution of a time independent Hamiltonian. This is accomplished through the use of a method known as Cartan decomposition, a procedure by which we can decompose a Hamiltonian algebra into smaller subalgebras. To accomplish this, we shall follow the procedure implemented in \cite{ref1}, utilizing their Cartan Quantum Synthesizer (CQS) program\cite{ref2}. We apply this to three different molecules: $H_2$, $HeH^+$, and $BeH_2$ with 2 active orbitals. For detailed information as to how Cartan decomposition works, please see the pdf included as well as the relavent notebooks. 
+In this project, we examine an alternative to the Trotter decomposition to estimate the time evolution of a time independent Hamiltonian. This is accomplished through the use of a method known as Cartan decomposition, a procedure by which we can decompose a Hamiltonian algebra into smaller subalgebras. To accomplish this, we shall follow the procedure implemented in [Fixed Depth Hamiltonian Simulation via Cartan Decomposition](https://arxiv.org/abs/2104.00728), utilizing their Cartan Quantum Synthesizer (CQS) program [Kemperlab/cartan-quantum-synthesizer: Quantum computing
+– unitary synthesis based on cartan decomposition](https://github.com/kemperlab/cartan-quantum-synthesizer). We apply this to three different molecules: $H_2$, $HeH^+$, and $BeH_2$ with 2 active orbitals. For detailed information as to how Cartan decomposition works, please see the pdf included as well as the relavent notebooks. 
 ## Results
 For detailed results about each individual molecule, see their respective Jupyter notebook. 
 
@@ -91,4 +92,10 @@ While we have applied this Cartan decomposition to three different molecules( $H
 <a href="https://choosealicense.com/licenses/mit/"><img src="https://raw.githubusercontent.com/johnturner4004/readme-generator/master/src/components/assets/images/mit.svg" height=40 />MIT License</a>
 
 ## Acknowledgement 
+
+We would like to thank NVIDIA and Amazon for providing us with use of a Nvidia GPU and access to Amazon Web Service respectively due to our placement in the QHACK 2024 coding competition and our preliminary submission.
 ## References
+Efekan K ̈okc ̈u, Thomas Steckmann, Yan Wang, J.K. Freericks, Eugene F.
+Dumitrescu, and Alexander F. Kemper. Fixed depth hamiltonian simula-
+tion via cartan decomposition. Physical Review Letters, 129(7), August
+2022.
