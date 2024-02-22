@@ -79,7 +79,7 @@ In this project, we examine an alternative to the Trotter decomposition to estim
 ## Results
 For detailed results about each individual molecule, see their respective Jupyter notebook. 
 
-In this project, we have illustrated that through the use of Cartan decomposition, we can produce a significantly smaller error with respect to the exact Unitary compared to the error associated with the Trotter decomposition. This implies that theoretically, we could lower the depth of the Cartan decomposition even further if we were content with a higher error.
+In this project, we have illustrated that through the use of Cartan decomposition, we can produce a significantly smaller error with respect to the exact Unitary compared to the error associated with the Trotter decomposition. This occurs in all molecules measured, as well as with each device. This implies that theoretically, we could lower the depth of the Cartan decomposition even further if we were content with a higher error.
 
 ## software--tools-used
 [_Pennylane SDK_](https://pennylane.ai/)
