@@ -77,7 +77,7 @@ is a very useful operator because it calculates how the system evolves over time
 This evolution operator has many applications in different fields as chemistry or optimization tasks, it would be great if you could help us!
 ## Description 
 In this project, we examine an alternative to the Trotter decomposition to estimate the time evolution of a time independent Hamiltonian. This is accomplished through the use of a method known as Cartan decomposition, a procedure by which we can decompose a Hamiltonian algebra into smaller subalgebras. To accomplish this, we shall follow the procedure implemented in [Fixed Depth Hamiltonian Simulation via Cartan Decomposition](https://arxiv.org/abs/2104.00728), utilizing their Cartan Quantum Synthesizer (CQS) program [Kemperlab/cartan-quantum-synthesizer: Quantum computing
-– unitary synthesis based on cartan decomposition](https://github.com/kemperlab/cartan-quantum-synthesizer). We apply this to three different molecules: $H_2$, $HeH^+$, and $BeH_2$ with 2 active orbitals. For detailed information as to how Cartan decomposition works, please see the pdf included as well as the relavent notebooks. 
+– unitary synthesis based on cartan decomposition](https://github.com/kemperlab/cartan-quantum-synthesizer). We apply this to three different molecules: $H_2$, $HeH^+$, and $BeH_2$ ($BeH_2$ with 2 active orbitals). For detailed information as to how Cartan decomposition works, please see the pdf included as well as the relavent notebooks. 
 ## Results
 For detailed results about each individual molecule, see their respective Jupyter notebook. 
 
