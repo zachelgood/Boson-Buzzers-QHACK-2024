@@ -79,7 +79,11 @@ In this project, we examine an alternative to the Trotter decomposition to estim
 ## Results
 For detailed results about each individual molecule, see their respective Jupyter notebook. 
 
-In this project, we have illustrated that through the use of Cartan decomposition, we can produce a significantly smaller error with respect to the exact Unitary compared to the error associated with the Trotter decomposition. This occurs in all molecules measured, as well as with each device. This implies that theoretically, we could lower the depth of the Cartan decomposition even further if we were content with a higher error.
+   
+In this project, we have illustrated that through the use of Cartan decomposition, we can produce a significantly smaller error with respect to the exact Unitary compared to the error associated with the Trotter decomposition ($O(10^{-5})$ for Cartan verses $O(10^{0})$ for Trotter). This occurs in all molecules measured, as well as with each device. This implies that theoretically, we could lower the depth of the Cartan decomposition even further if we were content with a higher error.
+
+ In addition, in the particular case of $H_2$ using Quantum Phase Estimation (QPE), we obtain the molecular energy of $H_2$ from the time evolution of the Hamiltonian on the Pennylane and Nvidia "lightning" devices. By using the Cartan decomposition, the error in our molecular energy (an error of approximately 0.8%) is greatly reduced compared to Trotterization (an error of approximately 11%).
+
 
 ## software--tools-used
 [_Pennylane SDK_](https://pennylane.ai/)
