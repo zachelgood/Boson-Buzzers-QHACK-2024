@@ -59,7 +59,9 @@ GitHub ID: zachelgood
 **Aakash Warke**
 
 
-Discord ID: 
+Discord ID: axecot
+
+GitHub ID: aakashwarkee
 
 ------------
 
